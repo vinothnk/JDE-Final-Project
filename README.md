@@ -32,3 +32,14 @@ Delivery Pipeline Analysis
 ![image](https://github.com/user-attachments/assets/18912f52-f2f3-4a63-8aa2-aade24c1adf5)
 
 # Insights
+There is an increasing sales from February 2017 to Q2 of financial year 2018
+- Actionable Insight: Dig into the sales product categories, identify contributing items
+
+Relative to weekdays, weekends tend to bring in more sales volume. Credit card was found to be the most preferred payment type
+- Actionable Insight: Analyze probable reasons as to why credit card was most preferred. May be due to promotions, cash-back offerings etc.
+
+Linear correlation: Higher review score associated with lower number of shipping days. Another point to consider is the condition of shipped items when the customers receive. The higher review score may also be attributed by excellent state of items upon receipt.
+
+# Sales Performance
+
+[PowerBI](https://app.powerbi.com/links/C2HQ0Kro-H?ctid=0d5e4a9c-7c9a-4b3f-ae60-6fe77a9e77e4&pbi_source=storytelling_addin)
