@@ -55,7 +55,7 @@ Linear correlation: Higher review score associated with lower number of shipping
 
 # Sales Performance
 
-[PowerBI](https://app.powerbi.com/links/C2HQ0Kro-H?ctid=0d5e4a9c-7c9a-4b3f-ae60-6fe77a9e77e4&pbi_source=storytelling_addin)
+[PowerBI](https://app.powerbi.com/groups/me/reports/7f05acdc-a313-4811-abea-f3ed716f4f33/e0b15fa4effde56bcb06?bookmarkGuid=3c3cce9f-3a28-4bdc-8720-b634100a3c72&bookmarkUsage=1&ctid=0d5e4a9c-7c9a-4b3f-ae60-6fe77a9e77e4&portalSessionId=479b9ed5-a586-4d31-8380-42c93db61991&fromEntryPoint=export)
 
 # Insights
 Geographical Sales Distribution:​​
