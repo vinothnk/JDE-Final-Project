@@ -97,3 +97,8 @@ Close to 75% of orders are coming from three Cities ,Sao Paulo , Rio De Janeiro 
   - While RJ and MG have almost same number of orders, delay in delivery is higher in RJ. ​
 - Proposed Action: Analyse the cause of delay in order delivery to RJ. Also devise strategies to reach out to more customers in other cities, by conducting sales, 
                    offering promotions etc. as there are other similar cities like  RJ and MG in Brazil in terms of population ​
+
+
+# ORDERS PIPELINE ANALYSIS
+
+(https://app.powerbi.com/reportEmbed?reportId=14b2e194-b846-4b3e-893e-86bfb7a987a0)
