@@ -56,3 +56,25 @@ Linear correlation: Higher review score associated with lower number of shipping
 # Sales Performance
 
 [PowerBI](https://app.powerbi.com/links/C2HQ0Kro-H?ctid=0d5e4a9c-7c9a-4b3f-ae60-6fe77a9e77e4&pbi_source=storytelling_addin)
+
+# Insights
+Geographical Sales Distribution:​​
+- Have identified  bottom 10 revenue generating states contributing to 3.2% of the total sales. Some potential reasons for low sales could be the population size, economic condition, unemployment, limited access to e-commerce platforms​
+  - Action: Focus advertising and marketing efforts in regions with lower sales to increase market penetration. Consider adjusting pricing, promotions, or shipping policies based on regional demand and competition.​​
+
+Sales Trends Over Time​:​
+- Sales tend to peak in Q2 but seem to dip at the end of Q3 …Reason? ​
+  - Action: Align marketing campaigns and inventory planning with peak sales periods. Introduce promotions or discounts during slower sales months to boost revenue.​​
+
+Customer Segmentation:​​
+- Customers are segmented according to their purchase history into ‘Very Frequent’ , ‘Frequent’ , ‘Moderate’ and ‘Occasional’​​
+  - Action: Tailor marketing strategies for each customer segment. Offer loyalty programs or exclusive discounts for ‘Very Frequent’ and ‘Frequent’ customers​. Re-engage with ‘Moderate’ and ‘Occasional’ customers     
+    through personalized offers or follow-up communication.​​
+
+​Top Categories By Revenue and Average Order Value:​​
+- These bar charts show top ten categories by revenue. And average order value​
+  - Action: Prioritize stocking and promoting these products. Invest in marketing campaigns tailored to these top categories to boost sales further​
+
+​Low-Performing Products:​​
+- The Price Vs Freight matrix highlights products whose freight cost is more than the actual cost of the products​​
+  - Action: Consider discontinuing such products or exploring ways to reduce shipping costs to increase profit margins.​
