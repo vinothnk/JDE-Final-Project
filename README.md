@@ -16,6 +16,7 @@ Payment Behavior Analysis
 - Investigate payment methods and installment behaviors
 Delivery Pipeline Analysis
 - Identify problems in pipeline to efficiently carry out delivery process
+  
 
 # ETL - Microsoft Azure
 ![image](https://github.com/user-attachments/assets/025fb016-d776-4de6-92bb-f25158c57373)
@@ -31,6 +32,9 @@ for insights.
 
 # Entity Relationship Diagram
 ![image](https://github.com/user-attachments/assets/2029575c-fc7b-4132-9bb3-a519044b5b5e)
+
+The snowflake schema consists of one fact table that is connected to many dimension tables, which can be connected to other dimension tables through a many-to-one relationship.
+In our ER diagram, the orders table is the primary fact table where other tables are connected to.
 
 
 # Problem Statement
