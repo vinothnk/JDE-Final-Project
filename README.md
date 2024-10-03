@@ -41,7 +41,7 @@ In our ER diagram, the orders table is the primary fact table where other tables
 - Analyze the Olist e-commerce dataset to identify key factors affecting customer satisfaction, sales performance, and operational efficiency. 
 - Provide actionable insights to optimize customer experience, streamline order processing, and improve overall profitability."
 
-# Operations Analysis
+# OPERATIONS ANALYSIS
 ![image](https://github.com/user-attachments/assets/18912f52-f2f3-4a63-8aa2-aade24c1adf5)
 
 # Insights
@@ -53,7 +53,7 @@ Relative to weekdays, weekends tend to bring in more sales volume. Credit card w
 
 Linear correlation: Higher review score associated with lower number of shipping days. Another point to consider is the condition of shipped items when the customers receive. The higher review score may also be attributed by excellent state of items upon receipt.
 
-# Sales Performance
+# SALES ANALYSIS
 
 ![image](https://github.com/user-attachments/assets/b75c88ed-7cd8-410c-b903-d7eb041b1047)
 
@@ -78,3 +78,22 @@ Customer Segmentation:​​
 ​Low-Performing Products:​​
 - The Price Vs Freight matrix highlights products whose freight cost is more than the actual cost of the products​​
   - Action: Consider discontinuing such products or exploring ways to reduce shipping costs to increase profit margins.​
+
+
+# CUSTOMER SATISFACTION & ORDERS ANALYSIS​
+
+![image](https://github.com/user-attachments/assets/7bf9ab19-0c3c-42a7-9d6b-2e28f0b7d922)
+
+There is a direct relationship between Review and delay in delivery. Customers are generally happier when the products are delivered on time.​
+  - 4.62 % of orders (5.21K Orders) are delivered out of time. 95.38% Orders are delivered within the estimated time​
+  - 26.25% of sellers have at least delayed one order this has direct implication on the product review. ​
+- Proposed Action: Find what is causing the delay in delivery ​
+
+​Only 0.63 % of total orders are cancelled and that is not significant when compared to the volume of orders. ​
+  - Customers are less likely to cancel the orders once it is placed which shows high customer satisfaction  when it comes to OLIST.​
+
+Close to 75% of orders are coming from three Cities ,Sao Paulo , Rio De Janeiro and Minas Gerais​
+  - Sao Paulo , Rio De Janeiro and Minas Gerais  are the top three richest and populous states in Brazil). ​
+  - While RJ and MG have almost same number of orders, delay in delivery is higher in RJ. ​
+- Proposed Action: Analyse the cause of delay in order delivery to RJ. Also devise strategies to reach out to more customers in other cities, by conducting sales, 
+                   offering promotions etc. as there are other similar cities like  RJ and MG in Brazil in terms of population ​
