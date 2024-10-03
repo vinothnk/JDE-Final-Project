@@ -101,4 +101,36 @@ Close to 75% of orders are coming from three Cities ,Sao Paulo , Rio De Janeiro 
 
 # ORDERS PIPELINE ANALYSIS
 
-(https://app.powerbi.com/reportEmbed?reportId=14b2e194-b846-4b3e-893e-86bfb7a987a0)
+![image](https://github.com/user-attachments/assets/2bc041e2-1873-41ba-bbe5-a6014a23d52f)
+
+# Time taken from warehouse to logistics partner
+- On average, higher score given due to earlier delivery date compared to estimated date​.
+    - review score 1 took 4.16 days to deliver ​
+    - review score 5 took 2.37 days to deliver ​
+
+ - Recommendations: ​
+   - Optimize warehouse layout to minimize travel time.​
+        - identify which specific product categories are frequently ordered and place them together​
+   - Implement batch picking or zone picking​
+        - batch picking: collecting all required items for multiple orders​
+        - zone picking: pickers only pick items within their assigned zone​
+​
+# Items Count
+- No of items to deliver with review score 5 = 2940​
+- No of items with review score 1 = 6279​
+
+- Type of items with review score 1 were small appliances, computer accessories, garden tools.​
+
+- Recommendations: ​
+    - Last mile delivery improvements​
+      - crowdsource delivery partners for smaller items​
+      - partner with order fulfillment partner to increase efficiency​
+      - automate delivery notification​
+
+
+# CHALLENGES
+​- Attribute error issue when using VS Code IDE​
+- iterrows & insert method to populate tables on Postgresql​
+- Should use df.to_sql method to reduce runtime​
+​- Mounting storage container onto Databricks​
+- Permission challenges creating Azure accounts​
