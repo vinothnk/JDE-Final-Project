@@ -55,7 +55,7 @@ Linear correlation: Higher review score associated with lower number of shipping
 
 # Sales Performance
 
-
+![image](https://github.com/user-attachments/assets/b75c88ed-7cd8-410c-b903-d7eb041b1047)
 
 # Insights
 Geographical Sales Distribution:​​
